@@ -8,6 +8,10 @@ CycleGAN-VC2(http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/cyclegan-
 * 被轉換:JSUT (Japanese speech corpus of Saruwatari-lab., University of Tokyo) 1000個  
 download:https://sites.google.com/site/shinnosuketakamichi/publication/jsut  
 
+## 訓練參數
+batch size:1  
+epoch:100  
+
 ## 訓練過程
 ![image](https://github.com/TaiChunYen/kugyu_audio-style-transfer/blob/master/figure/g_loss.png)
 ![image](https://github.com/TaiChunYen/kugyu_audio-style-transfer/blob/master/figure/d_loss.png)
