@@ -4,7 +4,7 @@
 * Pytorch  
 
 ## 訓練模型
-* Generator:CycleGAN-VC2(reduce one upsample layer and one downsample layer)  
+* Generator:CycleGAN-VC2(remove one upsample layer and one downsample layer)  
 * Discriminator:CycleGAN-VC  
 * loss function:CycleGAN-VC
 * Pytorch implement:https://github.com/TaiChunYen/Pytorch-CycleGAN-VC2/blob/master/model_m.py  
@@ -14,14 +14,16 @@
 download:https://sites.google.com/site/shinnosuketakamichi/publication/jsut  
 
 ## 訓練參數
-batch size:1  
-epoch:100  
+* batch size:1  
+* epoch:100  
 
 ## 訓練過程
 ![image](https://github.com/TaiChunYen/kugyu_audio-style-transfer/blob/master/figure/g_loss.png)
 ![image](https://github.com/TaiChunYen/kugyu_audio-style-transfer/blob/master/figure/d_loss.png)
 ## 訓練結果
 In convert/history/  
+002-[batch size].wav:釘宮轉JSUT  
+BASIC5000_0001-[batch size].wav:JSUT轉釘宮  
 
 
 
