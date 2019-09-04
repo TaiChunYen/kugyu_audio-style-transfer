@@ -22,8 +22,8 @@ download:https://sites.google.com/site/shinnosuketakamichi/publication/jsut
 ![image](https://github.com/TaiChunYen/kugyu_audio-style-transfer/blob/master/figure/d_loss.png)
 ## 訓練結果
 In convert/history/  
-* 002-[batch size].wav:釘宮轉JSUT  
-* BASIC5000_0001-[batch size].wav:JSUT轉釘宮  
+* 002-[epoch].wav:釘宮轉JSUT  
+* BASIC5000_0001-[epoch].wav:JSUT轉釘宮  
 
 
 
