@@ -4,10 +4,10 @@
 * Pytorch  
 
 ## 訓練模型
-Generator:CycleGAN-VC2(reduce one upsample layer and one downsample layer)  
-Discriminator:CycleGAN-VC  
-loss function:CycleGAN-VC
-(Pytorch implement model:https://github.com/TaiChunYen/Pytorch-CycleGAN-VC2/blob/master/model_m.py)  
+* Generator:CycleGAN-VC2(reduce one upsample layer and one downsample layer)  
+* Discriminator:CycleGAN-VC  
+* loss function:CycleGAN-VC
+* Pytorch implement:https://github.com/TaiChunYen/Pytorch-CycleGAN-VC2/blob/master/model_m.py  
 ## 訓練資料
 * 轉換:釘宮理惠dataset(kugimiya/) 200個  
 * 被轉換:JSUT (Japanese speech corpus of Saruwatari-lab., University of Tokyo) 1000個  
